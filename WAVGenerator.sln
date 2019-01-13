@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAVGenerator", "WAVGenerator\WAVGenerator.csproj", "{2D3EC112-7EDC-4BEC-8699-0DF935DF9D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3EC112-7EDC-4BEC-8699-0DF935DF9D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3EC112-7EDC-4BEC-8699-0DF935DF9D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3EC112-7EDC-4BEC-8699-0DF935DF9D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3EC112-7EDC-4BEC-8699-0DF935DF9D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D89ED66-B6CF-4EB5-9161-D2A8E4F8E0F3}
+	EndGlobalSection
+EndGlobal
